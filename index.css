@@ -108,7 +108,7 @@ img{
 
 @media (min-width: 769px) and (max-width: 1024px) {
     .content-box {
-        width: 65%;
+        width: 60%;
     }
 
     img {
