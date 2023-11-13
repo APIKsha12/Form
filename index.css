@@ -99,6 +99,7 @@ img{
 
     .input-box {
         font-size: 0.9rem;
+        margin-left : 30px;
     }
 
     .login, .submit {
